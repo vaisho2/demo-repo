@@ -1,3 +1,3 @@
-# Weather-Forecast-Application
+# demo-repo
 
 Author: Vaishnavi Suryawanshi
